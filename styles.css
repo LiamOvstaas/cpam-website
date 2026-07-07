@@ -50,6 +50,7 @@ nav a:hover {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  gap: 20px;
 }
 
 .cta {
